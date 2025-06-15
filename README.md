@@ -2,6 +2,11 @@
 
 A personalized learning web app that recommends the best learning path based on your skill level. Built with React, Vite, TypeScript, TailwindCSS, and Supabase.
 
+## 🌐 Live Demo
+
+👉 [tinyurl.com/plprs-demo](https://tinyurl.com/plprs-demo)
+
+
 ## 🚀 Tech Stack
 
 - **Frontend**: React 18 + Vite + TypeScript + TailwindCSS
